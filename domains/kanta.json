@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "usermalik20-del",
+    "email": "usermalik20@gmail.com"
+  },
+  "records": {
+    "CNAME": "REPLACE_WITH_VERCEL_DNS_TARGET"
+  }
+}
